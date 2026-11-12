@@ -23,20 +23,20 @@ Para atingir a meta de 1,9% em 12 meses, três frentes rodam em paralelo a parti
 | :--- | :--- |
 | Plano compartilhado | Regra de velocidade (uma identidade só mantém uma sessão aberta por vez) e token temporário de uso único vinculado ao CPF e à unidade |
 | Entrada fantasma | Validador na catraca conectado à camada de identidade e registro de presença atrelado ao token de sessão |
-| Cobrança contestada (chargeback) | Conciliação automática de cobranças e repasses, dossiê de presença por visita e roteiro padronizado (playbook) de contestação |
+| Cobrança contestada (chargeback) | Conciliação automática de cobranças e repasses, relatório de presença por visita e roteiro padronizado (playbook) de contestação |
 
 Na negociação de quatro meses com a maior plataforma, a renovação exige que o parceiro envie um identificador único do beneficiário no momento do check-in. Se a plataforma recusar, a MOVER aciona um acordo-ponte de quatro meses com saída automática, sem incluir unidades novas nem ampliar o volume anônimo, usando esse prazo para migrar os alunos para planos diretos ou para outro agregador. Quem não migrar ao fim da transição deixa de entrar por esse benefício.
 
 Quanto aos sete pilotos de inteligência artificial espalhados pela rede, todos ficam pausados nos primeiros 90 dias. Após esse marco, entra em operação um único projeto desenhado junto com os professores de sala: um alerta simples quando a frequência individual do aluno cai ou acumula dias sem treino, cabendo ao professor fazer o contato humano.
 
-### Projeção financeira em dois anos
+### Projeção financeira no primeiro ano
 
-Considerando a receita anual estimada entre R$ 420 milhões (piso de 328 mil alunos únicos) e R$ 525 milhões (teto nominal de 410 mil registros), manter o patamar atual de 3,8% representa perder de R$ 32,0 milhões a R$ 39,9 milhões acumulados em dois anos.
+Considerando a receita anual estimada entre R$ 420 milhões (piso de 328 mil alunos únicos) e R$ 525 milhões (teto nominal de 410 mil registros), manter o patamar atual de 3,8% representa perder de R$ 16,0 milhões a R$ 19,9 milhões já no Ano 1.
 
-Com a entrada gradual das alavancas no primeiro ano e a operação completa no segundo:
+Como as alavancas entram em etapas ao longo do ano (piloto até o dia 60 e implantação de plataforma a partir do mês 4):
 
-- Em um cenário conservador (queda até 2,8%, caso a maior parte da perda seja contestação de alunos aparentemente legítimos), a perda cai para a faixa de R$ 25,7 milhões a R$ 32,0 milhões no biênio, preservando entre R$ 6,3 milhões e R$ 7,9 milhões no caixa.
-- Batendo a meta de 1,9%, a perda cai para R$ 20,0 milhões a R$ 25,0 milhões em dois anos, evitando entre R$ 12,0 milhões e R$ 15,0 milhões em perdas antes do custo da solução.
+- No cenário proposto pior caso (taxa média de 3,30% no Ano 1, em rampa até 2,8%), a perda cai para R$ 13,9 milhões a R$ 17,3 milhões, evitando entre R$ 2,1 milhões e R$ 2,6 milhões no primeiro ano.
+- No cenário proposto melhor caso (taxa média de 2,85% no Ano 1, em rampa até a meta de 1,9%), a perda recua para R$ 12,0 milhões a R$ 15,0 milhões, preservando entre R$ 4,0 milhões e R$ 5,0 milhões no caixa antes do custo da solução.
 
 ## Como usei inteligência artificial e onde discordei dela
 
