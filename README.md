@@ -52,6 +52,38 @@ Revisando o material gerado pelos modelos, tomei cinco decisões diferentes das 
 4. O comitê havia tratado o procedimento do Wellhub de exigir denúncia de fraude só após a visita como se fosse um dado escrito no enunciado do case; separei o que era fato do case do que era evidência externa de mercado.
 5. A recomendação técnica pedia o congelamento total de projetos de IA por 12 meses; optei por retomar um único piloto após o dia 90 focado em alerta de queda de frequência para ação do professor.
 
+## Referências utilizadas
+
+### Mercado fitness e plataformas agregadoras
+
+- InvestNews (17/06/2025): [De influencers a Ozempic: o que está por trás do crescimento do mercado fitness no Brasil](https://investnews.com.br/negocios/de-influencers-a-ozempic-o-que-esta-por-tras-do-crescimento-do-mercado-fitness-no-brasil/)
+- Fitness Brasil: [Panorama Setorial Fitness Brasil 2024](https://www.fitnessbrasil.com.br/newsfitbr/descubra-as-tendencias-do-mercado-fitness-em-2024-uma-analise-completa-do-panorama-setorial-fb/)
+- Diário do Nordeste (28/05/2025): [Apps de bem-estar abocanham mercado fitness e apertam academias menores no Ceará (regra prática de mix do Sindfit-CE)](https://diariodonordeste.verdesmares.com.br/negocios/apps-de-bem-estar-abocanham-mercado-fitness-e-apertam-academias-menores-no-ceara-1.3654100)
+- Cade (18/12/2025): [Cade homologa novo TCC com a Wellhub](https://www.gov.br/cade/pt-br/assuntos/noticias/cade-homologa-novo-tcc-com-wellhub-gympass)
+- Cade (21/09/2022): [Gympass celebra acordo com o Cade no mercado de academias](https://www.gov.br/cade/pt-br/assuntos/noticias/gympass-celebra-acordo-com-o-cade-no-mercado-de-academias-de-ginasticas-no-brasil)
+- VEJA (12/09/2025): [Nunca seremos donos de academia, diz presidente do Wellhub no Brasil](https://veja.abril.com.br/economia/nunca-seremos-donos-de-academia-diz-presidente-do-wellhub-no-brasil/)
+- Wellhub Partner Academy: [Reportar comportamentos suspeitos](https://wellhub.com/pt-br/partner-academy/reportar-comportamentos-suspeitos/)
+- Suporte Wellhub / Gympass: [Como parceiros podem reportar um visitante](https://support.gympass.com/hc/pt-br/articles/43621714617619-Como-parceiros-podem-reportar-um-visitante)
+- Suporte Wellhub / Gympass: [Por que é necessário o reconhecimento facial no momento do check-in](https://support.gympass.com/hc/pt-br/articles/45639853727379-Por-que-%C3%A9-necess%C3%A1rio-o-reconhecimento-facial-no-momento-do-check-in)
+- TotalPass: [Termos de uso](https://totalpass.com/br/terms/)
+- Sistema Pacto: [Como é feito o cadastro automático do aluno TotalPass no primeiro check-in](https://sistemapacto.zendesk.com/hc/pt-br/articles/56614209472531-Como-%C3%A9-feito-o-cadastro-autom%C3%A1tico-do-aluno-TotalPass-no-primeiro-check-in)
+
+### Proteção de dados, regulação e biometria facial
+
+- Planalto: [Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais, LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
+- Autoridade Nacional de Proteção de Dados, ANPD (02/06/2025): [ANPD abre tomada de subsídios sobre tratamento de dados biométricos](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-tomada-de-subsidios-sobre-tratamento-de-dados-biometricos)
+- Autoridade Nacional de Proteção de Dados, ANPD (18/02/2025): [ANPD fiscaliza reconhecimento facial em 23 clubes de futebol](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-fiscaliza-uso-de-sistema-de-reconhecimento-facial-na-venda-de-ingressos-e-na-entrada-de-estadios-por-23-clubes-de-futebol)
+- Autoridade Nacional de Proteção de Dados, ANPD: [Biometria é tema do segundo volume da série Radar Tecnológico](https://www.gov.br/anpd/pt-br/assuntos/noticias/biometria-e-tema-do-segundo-volume-da-serie-radar-tecnologico)
+- Instituto Brasileiro de Defesa do Consumidor, Idec (12/06/2025): [Guia completo: sistema de reconhecimento facial](https://idec.org.br/dicas-e-direitos/guia-completo-sistema-de-reconhecimento-facial)
+- National Institute of Standards and Technology, NIST: [FRTE Demographics (efeitos demográficos no reconhecimento facial)](https://pages.nist.gov/frvt/html/frvt_demographics.html)
+- National Institute of Standards and Technology, NIST (12/2019): [NISTIR 8280: Face Recognition Vendor Test (FRVT) Part 3, Demographic Effects](https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf)
+
+### Estudos sobre frequência e retenção em academias
+
+- Revista Brasileira de Ciências do Esporte, RBCE / SciELO: [Dropout predictors at gyms: a retrospective study](https://www.scielo.br/j/rbce/a/WtzM3gBFRkcrqY7xKZsVNnm/)
+- International Journal of Environmental Research and Public Health, IJERPH / PMC (2021): [Predicting Fitness Centre Dropout](https://pmc.ncbi.nlm.nih.gov/articles/PMC8508547/)
+- Psychology of Sport and Exercise (2020): [Why do new members stop attending health and fitness venues? The importance of developing frequent and stable attendance behaviour](https://doi.org/10.1016/j.psychsport.2020.101771)
+
 ## Arquivos deste repositório
 
 - [`MOVER_Apresentacao_Trainee_Vibra_v13.pptx`](MOVER_Apresentacao_Trainee_Vibra_v13.pptx): Apresentação executiva em PowerPoint (14 slides principais com notas de apresentador para 7 minutos e 1 slide de apêndice com as fontes externas).
