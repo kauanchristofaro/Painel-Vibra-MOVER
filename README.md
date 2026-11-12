@@ -29,14 +29,14 @@ Na negociação de quatro meses com a maior plataforma, a renovação exige que 
 
 Quanto aos sete pilotos de inteligência artificial espalhados pela rede, todos ficam pausados nos primeiros 90 dias. Após esse marco, entra em operação um único projeto desenhado junto com os professores de sala: um alerta simples quando a frequência individual do aluno cai ou acumula dias sem treino, cabendo ao professor fazer o contato humano.
 
-### Projeção financeira no primeiro ano
+### Projeção financeira em um ano pleno
 
-Considerando a receita anual estimada entre R$ 420 milhões (piso de 328 mil alunos únicos) e R$ 525 milhões (teto nominal de 410 mil registros), manter o patamar atual de 3,8% representa perder de R$ 16,0 milhões a R$ 19,9 milhões já no Ano 1.
+Considerando a receita anual estimada entre R$ 420 milhões (piso de 328 mil alunos únicos) e R$ 525 milhões (teto nominal de 410 mil registros), manter o patamar atual de 3,8% representa perder de R$ 16,0 milhões a R$ 19,9 milhões por ano.
 
-Como as alavancas entram em etapas ao longo do ano (piloto até o dia 60 e implantação de plataforma a partir do mês 4):
+Considerando 12 meses de operação plena das alavancas (sem rampa de implementação):
 
-- No cenário proposto pior caso (taxa média de 3,30% no Ano 1, em rampa até 2,8%), a perda cai para R$ 13,9 milhões a R$ 17,3 milhões, evitando entre R$ 2,1 milhões e R$ 2,6 milhões no primeiro ano.
-- No cenário proposto melhor caso (taxa média de 2,85% no Ano 1, em rampa até a meta de 1,9%), a perda recua para R$ 12,0 milhões a R$ 15,0 milhões, preservando entre R$ 4,0 milhões e R$ 5,0 milhões no caixa antes do custo da solução.
+- No cenário proposto pior caso (queda até 2,8%, caso a maior parte da perda seja contestação de alunos aparentemente legítimos), a perda cai para R$ 11,8 milhões a R$ 14,7 milhões ao ano, evitando entre R$ 4,2 milhões e R$ 5,2 milhões.
+- No cenário proposto melhor caso (atingindo a meta de 1,9%), a perda cai pela metade para R$ 8,0 milhões a R$ 10,0 milhões ao ano, preservando entre R$ 8,0 milhões e R$ 10,0 milhões no caixa antes do custo da solução.
 
 ## Como usei inteligência artificial e onde discordei dela
 
